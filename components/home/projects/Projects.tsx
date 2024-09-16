@@ -22,7 +22,7 @@ const projects = [
     imgSrc: "/project-imgs/Classroom-Reservation-System.png",
     code: "https://github.com/et-mohan/Classroom-Reservation-System.git",
     tech: ["codeigniter","bootstrap","sql"],
-    description: "An Insurance Agency Listing Web Application.",
+    description: "lassroom Reservation System for booking classrooms",
     modalContent: (
       <>
         <p>
