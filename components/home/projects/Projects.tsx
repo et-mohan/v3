@@ -73,7 +73,7 @@ const projects = [
   {
     title: "Api",
     imgSrc: "/project-imgs/api.jpeg",
-    code: "https://github.com/et-mohan/tamilnadu-college-fest-api.git",
+    code: "https://github.com/et-mohan/fest-api.git",
     tech: ["Node.js", "Express.js", "Cheerio"], // Corrected technology names
     description:
       "This API provides real-time data on college fests happening across Tamil Nadu, empowering users to stay informed about upcoming events and engage with the vibrant college fest scene.", // Engaging description
